@@ -13,7 +13,7 @@ w2i and c+h!<br>
 <p>
 <a href="https://purplesheep.atabook.org/" 
    style="color:#c9a2ff; background-color:#7d3cff; font-family:'Roboto', sans-serif; font-weight:bold; text-decoration:none;">
-&nbsp;ata&nbsp;
+&nbsp;ATABOOK👑&nbsp;
 </a>
 </p>
 

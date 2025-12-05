@@ -22,5 +22,7 @@ w2i and c+h!<br>
 <img width="700" height="438" alt="image" src="https://github.com/user-attachments/assets/45074562-25ae-45be-a91e-7d9809cc33b0" />
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&color=red" alt="Views"/>
+
+align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&label=👑🌈&color=97503f" alt="Counter"/>
+</p>

@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#1a0d2b; color:#c9a2ff; font-family:'Playfair Display', serif;">
+<div align="center"; color:#c9a2ff; font-family:'Playfair Display', serif;">
 <!-- Header -->
 <p>
 You can call me sheepy or charlie.<br>

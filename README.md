@@ -17,10 +17,6 @@ w2i and c+h!<br>
 </a>
 </p>
 
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/🌈-12-97503f">
-</p>
 
 <img width="700" height="438" alt="image" src="https://github.com/user-attachments/assets/45074562-25ae-45be-a91e-7d9809cc33b0" />
 

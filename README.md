@@ -24,6 +24,6 @@ w2i and c+h!<br>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👑-🌈12-97503f">
+  <img src="https://img.shields.io/badge/👑🌈-12-97503f">
 </p>
 

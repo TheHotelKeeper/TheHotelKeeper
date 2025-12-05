@@ -22,3 +22,6 @@ w2i and c+h!<br>
 <img width="700" height="438" alt="image" src="https://github.com/user-attachments/assets/45074562-25ae-45be-a91e-7d9809cc33b0" />
 
 ![Views](https://komarev.com/ghpvc/?username=Thehotelkeeper&color=red)
+<center>
+<img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0007&nbdigits=6&type=page&initCount=0">
+</center>

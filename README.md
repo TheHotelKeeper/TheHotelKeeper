@@ -17,7 +17,7 @@ w2i and c+h!<br>
 </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&label=.👑🎁.&color=3f253d" alt="Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&label=.HELLO.&color=3f253d" alt="Counter"/>
 </p>
 
 <img width="700" height="438" alt="image" src="https://github.com/user-attachments/assets/45074562-25ae-45be-a91e-7d9809cc33b0" />

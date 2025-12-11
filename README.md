@@ -21,7 +21,7 @@ w2i and c+h!<br>
 </p>
 
 
-<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/0de19405-7b77-4852-b893-765f37a33aab" />
+<img width="576" height="1152" alt="image" src="https://github.com/user-attachments/assets/0de19405-7b77-4852-b893-765f37a33aab" />
 
 
 

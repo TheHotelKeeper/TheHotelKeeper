@@ -19,7 +19,9 @@ w2i and c+h!<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&label=.HELLO.&color=3f253d" alt="Counter"/>
 </p>
-![Uploading image.png…]()
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/6105c903-18a0-4b8c-b2ea-dc35c2115077" />
+
+
 
 
 

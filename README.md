@@ -14,8 +14,8 @@ w2i and c+h!<br>
 <a href="https://purplesheep.atabook.org/" 
    style="color:#c9a2ff; background-color:#7d3cff; font-family:'Roboto', sans-serif; font-weight:bold; text-decoration:none;">
 &nbsp;ATABOOK👑&nbsp;
-</a><b>
-   <b></b><a href="https://charlieisme.straw.page" 
+</a> <b>
+   <b> </b><a href="https://charlieisme.straw.page" 
    style="color:#c9a2ff; background-color:#7d3cff; font-family:'Roboto', sans-serif; font-weight:bold; text-decoration:none;">
 &nbsp;STRAW&nbsp;
 </p>

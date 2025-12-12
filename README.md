@@ -5,7 +5,7 @@
 
 ${\textsf{\color{#97503f}C}}{\textsf{\color{#533127}+}}{\textsf{\color{#b78e58}H}}$ ${\textsf{\color{#a97948}and}}$ ${\textsf{\color{#643e27}w2i!}}$
 
-![Visitor Count](https://profile-counter.glitch.me/Thehotelkeeper/count.svg)
+![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=visits&color=97503f)
 
 <!-- Info text -->
 

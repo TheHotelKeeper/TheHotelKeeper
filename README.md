@@ -1,7 +1,6 @@
-<div align="center"; color:#c9a2ff; font-family:'Playfair Display', serif;">
-<!-- Header -->
+
 <p>
-${\textsf{\color{#97503f}You can call me sheepy or charlie}}$<br>
+${\textsf{\color{#97503f}You}}$ ${\textsf{\color{#533127}can}}$ ${\textsf{\color{#b78e58}call me}}$ ${\textsf{\color{#a97948}sheepyᵒʳ}}$ ${\textsf{\color{#643e27}charlie}}$
 
 </p>
 

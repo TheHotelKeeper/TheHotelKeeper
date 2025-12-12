@@ -13,7 +13,7 @@ ${\textsf{\color{#97503f}C}}{\textsf{\color{#533127}+}}{\textsf{\color{#b78e58}H
 
 <div align="center">
  
-${\textsf{\color{#97503f}Mostly at}}{\textsf{\color{#533127}the}}{\textsf{\color{#b78e58}Hazbin hotel, }}$ ${\textsf{\color{#a97948}Helluva bossᵒʳ the }}$ ${\textsf{\color{#643e27}Dandys world area⭑.ᐟ}}$
+${\textsf{\color{#97503f}Mostly at}}{\textsf{\color{#533127}the}}{\textsf{\color{#b78e58}Hazbin hotel,}}$ ${\textsf{\color{#a97948}Helluva bossᵒʳ the}}$ ${\textsf{\color{#643e27}Dandys world area⭑.ᐟ}}$
 
 <p>
 <div align="center">

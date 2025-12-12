@@ -1,8 +1,8 @@
 <div align="center"; color:#c9a2ff; font-family:'Playfair Display', serif;">
 <!-- Header -->
 <p>
-You can call me sheepy or charlie.<br>
-w2i and c+h!<br>
+${\textsf{\color{#97503f}You can call me sheepy or charlie}}$<br>
+${\textsf{\color{#97503f}w2i and c+h!}}<br>
 </p>
 
 <!-- Tag section -->

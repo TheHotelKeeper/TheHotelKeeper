@@ -11,7 +11,9 @@ ${\textsf{\color{#97503f}C}}{\textsf{\color{#533127}+}}{\textsf{\color{#b78e58}H
 
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/712399cd-124d-449b-914a-c46fa9a27e25" />
 
-<!-- Repository Link as Button -->
+<div align="center">
+${\textsf{\color{#97503f}I am mostly at}}{\textsf{\color{#533127}the}}{\textsf{\color{#b78e58}Hazbin hotel,}}$ ${\textsf{\color{#a97948}Helluva bossᵒʳ the }}$ ${\textsf{\color{#643e27}Dandys world area!}}$
+
 <p>
 <div align="center">
 <u><a href="https://Purplesheepisme.ataabook.org">ata</a></u>

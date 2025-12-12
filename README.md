@@ -2,7 +2,7 @@
 <!-- Header -->
 <p>
 ${\textsf{\color{#97503f}You can call me sheepy or charlie}}$<br>
-${\textsf{\color{#97503f}w2i and c+h!}}<br>
+${\textsf{\color{#97503f}w2i and c+h!}}
 </p>
 
 <!-- Tag section -->

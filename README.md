@@ -1,6 +1,7 @@
 
 <p>
-${\textsf{\color{#97503f}You}}$ ${\textsf{\color{#533127}can}}$ ${\textsf{\color{#b78e58}call me}}$ ${\textsf{\color{#a97948}sheepyᵒʳ}}$ ${\textsf{\color{#643e27}charlie}}$
+\begin{center}
+   ${\textsf{\color{#97503f}You}}$ ${\textsf{\color{#533127}can}}$ ${\textsf{\color{#b78e58}call me}}$ ${\textsf{\color{#a97948}sheepyᵒʳ}}$ ${\textsf{\color{#643e27}charlie}}$
 
 </p>
 

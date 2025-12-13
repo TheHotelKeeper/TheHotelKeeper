@@ -23,7 +23,7 @@ ${\textsf{\color{#97503f}THANK}}$ ${\textsf{\color{#934b3b}YEW!!}}$
 
 <p>
 <div align="center">
-<u><a href="(https://purplesheep.atabook.org/)">ata</a></u>
+<u><a href="https://purplesheep.atabook.org">ata</a></u>
  ☆
 <u><a href="https://Charlieisme.straw.page">straw</a></u>
 

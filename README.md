@@ -13,7 +13,7 @@ ${\textsf{\color{#97503f}Feel free}}{\textsf{\color{#533127}to}}{\textsf{\color{
 
 <div align="center">
  
-${\textsf{\color{#97503f}Mostly at}}{\textsf{\color{#533127}the}}{\textsf{\color{#b78e58}Hazbin hotel,}}$ ${\textsf{\color{#a97948}Helluva bossᵒʳ the}}$ ${\textsf{\color{#643e27}Dandys world area⭑.ᐟ}}$
+${\textsf{\color{#97503f}Mostly at}}{\textsf{\color{#533127}the}}{\textsf{\color{#b78e58}Hazbin hotel, }}$ ${\textsf{\color{#a97948}Helluva bossᵒʳ the}}$ ${\textsf{\color{#643e27}Dandys world area⭑.ᐟ}}$
 
  ${\textsf{\color{#97503f}I have many}}$ ${\textsf{\color{#934b3b}styles so }}$ ${\textsf{\color{#b78f54}do NOT}}$ ${\textsf{\color{#b78f54}think im copying}}$ ${\textsf{\color{#ac814c}anyone.}}$
 

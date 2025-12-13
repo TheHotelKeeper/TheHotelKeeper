@@ -19,7 +19,7 @@ ${\textsf{\color{#97503f}Mostly at}}{\textsf{\color{#533127}the}}{\textsf{\color
 
 <p>
 <div align="center">
-<u><a href="https://Purplesheepisme.ataabook.org">ata</a></u>
+<u><a href="https://Purplesheepisme.atabook.org">ata</a></u>
  ☆
 <u><a href="https://Charlieisme.straw.page">straw</a></u>
 

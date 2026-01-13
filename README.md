@@ -8,7 +8,8 @@
 
 <img width="956" height="778" alt="image" src="https://github.com/user-attachments/assets/c7364ca9-a83b-44bc-ab38-2a3409d1866c" />
 
-
+<div align="center">
+from Lain ily<3
 <p>
 <div align="center">
 <u><a href="https://purplesheep.atabook.org">ata</a></u> ✦

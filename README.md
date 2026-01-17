@@ -1,3 +1,6 @@
+<img width="1024" height="143" alt="image" src="https://github.com/user-attachments/assets/3b914f0e-7747-4682-bfbe-f0245be88a7c" />
+
+
 <div align="center">
 
 ![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🐑&color=8e4594)

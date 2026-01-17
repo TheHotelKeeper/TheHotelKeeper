@@ -3,11 +3,11 @@
 
 <div align="center">
 
+${\textsf{\color{#5a4b64}HEYYY HII!!}}$
+
 ![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🐑&color=8e4594)
 
 <div align="center">
-
-  lazy to do ths😭
 
 <img width="956" height="778" alt="image" src="https://github.com/user-attachments/assets/c7364ca9-a83b-44bc-ab38-2a3409d1866c" />
 

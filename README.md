@@ -3,9 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=300&pause=100&color=D367DC&background=8E459400&center=true&width=435&lines=%F0%9D%90%87%F0%9D%90%84%F0%9D%90%98%F0%9D%90%98+%F0%9D%90%87%F0%9D%90%88%F0%9D%90%87%F0%9D%90%88!!" alt="Typing SVG" /></a>
-
-${\Huge \textsf{\color{#8e4594}𝐇𝐄𝐘𝐘 𝐇𝐈𝐇𝐈!!}}$
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=300&size=30&pause=100&color=D367DC&background=8E459400&center=true&width=435&lines=%F0%9D%90%87%F0%9D%90%84%F0%9D%90%98%F0%9D%90%98+%F0%9D%90%87%F0%9D%90%88%F0%9D%90%87%F0%9D%90%88!!" alt="Typing SVG" /></a>
 
 ![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🐑&color=8e4594)
 
